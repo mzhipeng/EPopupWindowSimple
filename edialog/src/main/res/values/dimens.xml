@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 统一 字体 -->
+    <dimen name="title">28sp</dimen>
+    <dimen name="title_n">25sp</dimen>
+    <dimen name="title_nn">20sp</dimen>
+
+    <dimen name="content_title">18sp</dimen>
+    <dimen name="content">16sp</dimen>
+    <dimen name="content_n">15sp</dimen>
+    <dimen name="content_nn">13sp</dimen>
+
+</resources>

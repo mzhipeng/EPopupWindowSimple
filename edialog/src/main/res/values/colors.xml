@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="gray">#EAEEEF</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- 统一的字体黑色 -->
+    <color name="textBlack">#373737</color>
+    <color name="textBlackN">#767676</color>
+    <color name="textBlackNN">#C8C8C8</color>
+
+
+    <!-- 提示色 -->
+    <color name="hint_green">#09BB07</color>
+    <color name="hint_blue_link">#576b95</color>
+    <color name="hint_blue">#007BFA</color>
+    <color name="hint_rad">#e64340</color>
+    <color name="hint_gray">#606674</color>
+    <color name="hint_gray2">#5B5D68</color>
+    <color name="hint_gray3">#232323</color>
+    <color name="hint_gray4">#171717</color>
+
+</resources>
